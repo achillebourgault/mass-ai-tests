@@ -14,9 +14,7 @@
 ## Requirements
 
 - **Unreal Engine 5** (latest version recommended)
-- **Mass AI Plugin** enabled
-- **State Tree Plugin** enabled
-- A machine with sufficient hardware for large-scale AI simulations
+- **Required Plugins** enabled
 
 ## Installation
 
